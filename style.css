@@ -1,3 +1,7 @@
+
+body {
+    background-color: pink;
+}
 h1 {
     background: linear-gradient(45deg, crimson, yellow);
     text-align: center;
