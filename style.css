@@ -9,3 +9,6 @@ h1 {
     line-height: 50vh;
     background-clip: text;
 }
+p {
+    color: blue;
+}
