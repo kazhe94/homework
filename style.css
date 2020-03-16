@@ -5,10 +5,10 @@ body {
 h1 {
     background: linear-gradient(45deg, crimson, yellow);
     text-align: center;
-    color: azure;
+    color: greenyellow;
     line-height: 50vh;
     background-clip: text;
 }
 p {
-    color: blue;
+    color: green;
 }
